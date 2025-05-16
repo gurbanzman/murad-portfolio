@@ -1,2 +1,2 @@
 boxicons.com/usage
-:-bootstrap gibi kullanılan bir kütüphane
+:-iconların olduğu kütüphane
